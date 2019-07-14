@@ -21,7 +21,7 @@ Para activar SSH basta con crear un archivo vacío en la SD con el nombre `ssh`
 ### Referencias
 [Configuración de Red](https://www.raspberrypi.org/documentation/configuration/wireless/wireless-cli.md)
 
-[Habilitar SSH](hhttps://www.raspberrypi.org/documentation/remote-access/ssh/README.md#3-enable-ssh-on-a-headless-raspberry-pi-add-file-to-sd-card-on-another-machine)
+[Habilitar SSH](https://www.raspberrypi.org/documentation/remote-access/ssh/README.md#3-enable-ssh-on-a-headless-raspberry-pi-add-file-to-sd-card-on-another-machine)
 
 ### License
 
